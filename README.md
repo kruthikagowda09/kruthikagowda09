@@ -5,17 +5,9 @@ Strategic-thinking Product Analyst and Software Engineer with a passion for buil
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Kruthika's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ## 🛠️ Technical Toolkit
 
-| Category | Badges |
+| Category | Skills & Tools |
 | :--- | :--- |
 | **Languages & Web** | ![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Kotlin](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
 | **Product & Design** | ![Figma](https://shields.io) `Wireframing` `Rapid Prototyping` `User Flow Design` `CRM Logic` |
